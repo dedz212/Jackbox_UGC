@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "contentId": "BQMZWMG",
+  "appId": "fdac94cc-cade-41ff-b4aa-e52e29418e8a",
+  "categoryId": "Drawful2Prompt",
+  "userId": "2E2D4938-28DF-AAD7-4191-301BE6E5ACFC",
+  "metadata": {
+    "author": "JACKBOX",
+    "title": "itz 4 kidz!!"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "tipping the school over"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "math in the bath"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "mom bought invisible car"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "a clown riding a cow"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "my mom ate my homework"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "doctor fart, fart doctor"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "no daddy only hot dog"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "tag! you’re spaghetti!"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "peppa pig disaster"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "spongebob roundpants"
+      }
+    ]
+  },
+  "createdTime": 1632772831908,
+  "downloads": 3291,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}

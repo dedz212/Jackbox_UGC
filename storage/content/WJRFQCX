@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "contentId": "WJRFQCX",
+  "appId": "fdac94cc-cade-41ff-b4aa-e52e29418e8a",
+  "categoryId": "Drawful2Prompt",
+  "userId": "2FD04B36-28D7-6B2A-41BB-1BFF54206680",
+  "metadata": {
+    "author": "JACKBOX",
+    "title": "play harder"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "dance dance promotion"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "applesauce with the apple boss"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "you’re on mute, satan"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "check out my inflatable pantsuit"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "the printer inked bc you scared it :/"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "giving the ceo a wedgie (respectfully)"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "snorting sugar packets at the coffee station"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "mandatory meeting re: eileens new haircut"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "my soul is crushed but free pizza"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "dont forget to recycle ideas"
+      }
+    ]
+  },
+  "createdTime": 1632773087005,
+  "downloads": 2426,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}

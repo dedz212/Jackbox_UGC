@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "contentId": "JMLRYBT",
+  "appId": "fdac94cc-cade-41ff-b4aa-e52e29418e8a",
+  "categoryId": "Drawful2Prompt",
+  "userId": "2E385D97-28D1-66EA-41C2-37E8D2CD948F",
+  "metadata": {
+    "author": "JACKBOX",
+    "title": "drawfully wedded"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "too much honey, not enough moon"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "adding a shiny rock to the gift table"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "removing the bride’s garter with telekinesis"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "oops, i throwing the bouquet into orbit"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "this flower girl is wretched"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "wedding coward screams again"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "the band is all austin powers"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "papa dancing in formal bellbottoms"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "goats eating the table centerpiece"
+      },
+      {
+        "author": {
+          "id": "9a1c8c4b-0cae-4ca1-9f20-13800ef6e65f",
+          "name": "JACKBOX"
+        },
+        "prompt": "seagull officiating beach wedding"
+      }
+    ]
+  },
+  "createdTime": 1632772657580,
+  "downloads": 1174,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}
