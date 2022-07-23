@@ -1,0 +1,481 @@
+{
+  "success": true,
+  "contentId": "NTJGRCF",
+  "appId": "37c1627d-4b01-4f45-b95f-80197cd4403c",
+  "categoryId": "QuiplashPrompt",
+  "userId": "8592405D-959D-2C2E-41D3-671FE0D36304",
+  "metadata": {
+    "author": "JACKBOX",
+    "title": "HOLIDAYS 2021!!!"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "That one ornament you don’t want to explain"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most neutral way to greet someone during the holidays"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Snowballs are over! Everyone’s doing \u0026lt;BLANK\u0026gt; instead"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What do you consider the “sound of December”?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A fun new direction for The Rockettes’ Holiday Revue"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Michael Buble really went off the rails with his new song, “\u0026lt;BLANK\u0026gt;”"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Ooooh! Look! There’s \u0026lt;BLANK\u0026gt; in that store window!"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The reason you’re not getting that end of year bonus at work"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What you got your cat this year"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "You know your parents are disappointed when you just get boxes full of \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Marketing reps aren’t into “reindeer” anymore, so we’re rebranding them as \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "I’m not sad, I always eat \u0026lt;BLANK\u0026gt; this time of year"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A winter holiday only seen in Florida"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The perfect gift for the lil’ weirdo in your life"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Hark! A \u0026lt;BLANK\u0026gt; is born!"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The one thing Mom told you not to say to Grandma at brunch"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The perfect gift for your old manager"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Gen Z doesn’t make snow angels, they make \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "One of Santa’s lesser-known powers is..."
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Santa’s most upsetting reindeer"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The one holiday song that will officially drive you over the edge"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Be honest.what do you REALLY need this year?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What did my true love give to me on the 27th day of Christmas?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "If you don’t have carrots you can give your snowman a \u0026lt;BLANK\u0026gt; as a nose"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The least popular toy this year is simply a doll that \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Santa’s sick of cookies and milk. This year, he wants \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "How Santa enters homes that don’t have a chimney"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Instead of an ugly sweater party, this year I’m throwing an ugly \u0026lt;BLANK\u0026gt; party"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Toast the holidays with a refreshing glass of \u0026lt;BLANK\u0026gt; nog"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A present that you’re definitely regifting"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Dreidel dreidel dreidel, I made it out of \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Besides Hanukkah, what else lasts 8 days?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "After stealing Christmas, what’s The Grinch’s next crime?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most annoying decoration you could see in your neighbor’s yard"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The name of the holiday romance film about a workaholic exterminator"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The quickest way to remove snow from your driveway"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A troubling thing for a child to say after biting the head off a gingerbread man"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "An unorthodox way to contact Santa"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A legitimate reason to fire an elf"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Little known fact: Rudolph also had a very shiny \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "“I hear footsteps on the roof! ...that must mean \u0026lt;BLANK\u0026gt;!!!”"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A cool action movie line to say after you stop the evil gingerbread man"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The one upside of the days getting shorter"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The perfect ending to the Hallmark movie you’re writing"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The one toy the elves refuse to build"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What’s in YOUR winter wonderland?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "It’s not the holidays unless I smell \u0026lt;BLANK\u0026gt;!"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The biggest thing Santa worries about as he drives his sleigh"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Why are no two snowflakes alike?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What happens if you put on Frosty’s enchanted hat?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What exactly is myrrh?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Remember, every time a bell rings"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three things you didn’t accomplish this year",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three key steps to a successfully family gathering",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three little rules for surviving the gift exchange",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "This funky new Holiday Blend coffee has notes of what three ingredients?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three of grandmother\u0026#39;s most unsettling ornaments",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three phrases Charles Dickens tried before he settled on Scrooge\u0026#39;s \u0026quot;Bah Humbug\u0026quot;",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three main reasons the elves are unionizing",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three things you can do to guarantee your position on the “nice” list",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three worst things to find under your tree",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three cheapest stocking stuffers",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three worst shapes for Christmas cookies",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three places holiday lights should never go",
+        "type": "thriplash"
+      }
+    ]
+  },
+  "createdTime": 1638892056600,
+  "downloads": 24208,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}

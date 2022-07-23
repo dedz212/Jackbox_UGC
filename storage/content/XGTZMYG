@@ -1,0 +1,460 @@
+{
+  "success": true,
+  "contentId": "XGTZMYG",
+  "appId": "37c1627d-4b01-4f45-b95f-80197cd4403c",
+  "categoryId": "QuiplashPrompt",
+  "userId": "FFEADD0D-F011-216C-41E4-0B2A26A6D9DE",
+  "metadata": {
+    "author": "JACKBOX",
+    "title": "Ready Quipper One"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "If you were a video game boss, what would be your weakness?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "One person they should never add to \u0026lt;i\u0026gt;Smash Bros.\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "If Kirby swallowed you, what power would they get?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The title of a video game designed specifically for dads"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A small change that would ruin your favorite video game"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "If \u0026lt;i\u0026gt;World of Warcraft\u0026lt;/i\u0026gt; added a new player class based on \u0026lt;ANYPLAYER\u0026gt; what would it be?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A way of ending a \u0026lt;i\u0026gt;Mortal Kombat\u0026lt;/i\u0026gt; fight that’s even worse than a Fatality"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "In other video games you can enter the Konami Code. In \u0026lt;i\u0026gt;Quiplash 3\u0026lt;/i\u0026gt;, the cheat code to win is just to type \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "How would a Grandpa describe \u0026lt;i\u0026gt;Fortnite\u0026lt;/i\u0026gt;?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What’s the worst crime you can commit in \u0026lt;i\u0026gt;Grand Theft Mario Kart\u0026lt;/i\u0026gt;?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Why are \u0026lt;i\u0026gt;Angry Birds\u0026lt;/i\u0026gt; so angry?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What’s the one thing you can’t build in \u0026lt;i\u0026gt;Minecraft\u0026lt;/i\u0026gt;?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "You’re running to be the ruler of \u0026lt;i\u0026gt;Skyrim\u0026lt;/i\u0026gt;... what’s your political slogan?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "To properly balance your team, you need a tank, a healer and a \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Where’s a surprising place to find a Ghastly in \u0026lt;i\u0026gt;Pokemon Go\u0026lt;/i\u0026gt;?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "How can you’ve been staring at screens too long and need to go outside?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The major difference between \u0026lt;i\u0026gt;Madden\u0026lt;/i\u0026gt; games and real football"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What part of Hyrule should Link avoid?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What was Mario’s job before plumber?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What would really happen to you if you ate a turkey leg you found floating on the street?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What are henchmen doing while waiting for the hero to reach their level?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The hero from \u0026lt;i\u0026gt;Doom\u0026lt;/i\u0026gt; is called \u0026quot;Doomguy.\u0026quot; If your life was a video game, what would you be called?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A non-violent use for a Hadouken blast"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "We’re bringing back Pong!... but this time it’s \u0026lt;BLANK\u0026gt;!!!"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A better term for “rage quitting”"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Zombies have been done! In this game you fight hordes of \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What business would you set up in Animal Crossing?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Swords? Guns? Bah! The best video game weapon you can have is a \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "If real life had respawn points, here’s where you’d reappear when you die"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A shoutout a Twitch streamer might give if the only viewer is their mom"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The least impressive relic Lara Croft could find"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Instead of typing “gg” what’s a better way of cordially ending a multiplayer game?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "They just made a video game about high school. What’s the final boss?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What phrase does a gamer grandma crochet into her pillows?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The REAL reason Kratos is so cranky in \u0026lt;i\u0026gt;God of War\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A weird excuse for a company to delay a game release: “We just need more time to add \u0026lt;BLANK\u0026gt;”"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A video game based on your life: \u0026lt;BLANK\u0026gt; \u0026lt;i\u0026gt;Simulator\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A video game you’d like to see: \u0026lt;i\u0026gt;Lego\u0026lt;/i\u0026gt; \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The weirdest thing for the \u0026lt;i\u0026gt;NBA Jam\u0026lt;/i\u0026gt; guy to yell as your character dunks a basketball"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The quickest way to get kicked out of \u0026lt;i\u0026gt;Stardew Valley\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "All I’m saying is I want some \u0026lt;i\u0026gt;Red Dead Redemption\u0026lt;/i\u0026gt; DLC that lets you \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most common thing said by the ghosts in \u0026lt;i\u0026gt;Pac-Man\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A good sign that what you caught isn’t a Pikachu"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The name of an insanely easy video game"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A shape you’d like to see them add to \u0026lt;i\u0026gt;Tetris\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A sequel you’re dying to see: \u0026lt;i\u0026gt;Untitled Goose Game 2: \u0026lt;BLANK\u0026gt;\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Oh no! My parents were right! Video games caused me to \u0026lt;BLANK\u0026gt;!"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A good sign you\u0026#39;re playing a counterfeit Nintendo game"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The quickest way to tell that a video game was made in the \u0026#39;80s"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three moves in your signature power combo",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Your three-word pitch for a survival horror game",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three rules of your Twitch stream are simply: \u0026lt;BLANK\u0026gt;, \u0026lt;BLANK\u0026gt; and \u0026lt;BLANK\u0026gt;",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three things you must have for a video game-themed wedding",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The first three things you’d do if you woke up on your \u0026lt;i\u0026gt;Animal Crossing\u0026lt;/i\u0026gt; island",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three things a video game better have if you’re gonna spend $70 on it",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three most controversial video game opinions of all time",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three things everybody wants in a AAA game are realistic \u0026lt;BLANK\u0026gt;, \u0026lt;BLANK\u0026gt; and \u0026lt;BLANK\u0026gt;",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three rejected \u0026lt;i\u0026gt;Mario\u0026lt;/i\u0026gt; titles",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three things you’ve learned from playing video games",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three steps to becoming an E-League champion",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three shocking revelations from Sonic The Hedgehog’s autobiography",
+        "type": "thriplash"
+      }
+    ]
+  },
+  "createdTime": 1618934462626,
+  "downloads": 21413,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}
