@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "body": {
+    "listId": "quiplash3-tjsp",
+    "entries": [
+      {
+        "contentId": "FMJRLWX",
+        "author": "Jackbox Games",
+        "title": "Language Laughter With Duolingo",
+        "description": "Celebrate your language learning journey with this themed episode in partnership with Duolingo!",
+        "locale": "en",
+        "type": "",
+        "published": "2022-07-06T17:00:00Z"
+      },
+      {
+        "contentId": "DZSDPYJ",
+        "author": "Jackbox Games",
+        "title": "Apprendre en s'amusant avec Duolingo",
+        "description": "Célébrez votre voyage d'apprentissage linguistique avec cet épisode à thème en partenariat avec Duolingo !",
+        "locale": "fr",
+        "type": "",
+        "published": "2022-07-06T17:00:00Z"
+      },
+      {
+        "contentId": "JWJSKGG",
+        "author": "Jackbox Games",
+        "title": "Risate a tema linguistico con Duolingo",
+        "description": "Festeggia il tuo viaggio per imparare una lingua con questo episodio a tema in collaborazione con Duolingo!",
+        "locale": "it",
+        "type": "",
+        "published": "2022-07-06T17:00:00Z"
+      },
+      {
+        "contentId": "PREFPZR",
+        "author": "Jackbox Games",
+        "title": "Lachen mit Sprachen dank Duolingo",
+        "description": "Feiert eure Abenteuerreise der Sprachen mit dieser Episode in Partnerschaft mit Duolingo!",
+        "locale": "de",
+        "type": "",
+        "published": "2022-07-06T17:00:00Z"
+      },
+      {
+        "contentId": "TXRDJTZ",
+        "author": "Jackbox Games",
+        "title": "Risas en varios idiomas con Duolingo",
+        "description": "¡Celebra tu recorrido aprendiendo idiomas con este episodio temático en colaboración con Duolingo!",
+        "locale": "es",
+        "type": "",
+        "published": "2022-07-06T17:00:00Z"
+      },
+      {
+        "contentId": "BDJDETK",
+        "author": "Jackbox Games",
+        "title": "Risas en varios idiomas con Duolingo",
+        "description": "¡Celebra tu recorrido aprendiendo idiomas con este episodio temático en colaboración con Duolingo!",
+        "locale": "es-XL",
+        "type": "",
+        "published": "2022-07-06T17:00:00Z"
+      },
+      {
+        "contentId": "ZZFPEPM",
+        "author": "Jackbox Games",
+        "title": "Kids Only! Stay Out!",
+        "description": "These jokes are for kids! Adults wouldn't understand!",
+        "locale": "en",
+        "type": "",
+        "published": "2020-08-24T22:35:46.000000906Z"
+      },
+      {
+        "contentId": "SLTRWXW",
+        "author": "Jackbox Games",
+        "title": "Enfants uniquement ! Entrée interdite !",
+        "description": "Ces blagues sont seulement pour les enfants ! Les adultes n'y comprendront rien !",
+        "locale": "fr",
+        "type": "",
+        "published": "2022-05-15T21:11:19Z"
+      },
+      {
+        "contentId": "REJHCEJ",
+        "author": "Jackbox Games",
+        "title": "Solo per bambini! Vietato ai grandi!",
+        "description": "Queste battute sono rivolte ai bambini! Gli adulti non capirebbero!",
+        "locale": "it",
+        "type": "",
+        "published": "2022-05-16T17:47:45Z"
+      },
+      {
+        "contentId": "XZNEYWP",
+        "author": "Jackbox Games",
+        "title": "Nur für Kinder! Erwachsene: Finger weg!",
+        "description": "Diese Scherze sind für Kinder! Erwachsene würden sie sowieso nicht verstehen!",
+        "locale": "de",
+        "type": "",
+        "published": "2022-05-17T08:30:25Z"
+      },
+      {
+        "contentId": "BWJRVGJ",
+        "author": "Jackbox Games",
+        "title": "¡Solo para niños! ¡Largo de aquí!",
+        "description": "¡Estas bromas son para niños! ¡Los adultos no las entenderían!",
+        "locale": "es",
+        "type": "",
+        "published": "2022-05-17T20:39:04Z"
+      },
+      {
+        "contentId": "VGXZGMW",
+        "author": "Jackbox Games",
+        "title": "¡Solo niños! ¡Quédense fuera!",
+        "description": "¡Estas son bromas para niños! ¡Los adultos no las entenderían!",
+        "locale": "es-XL",
+        "type": "",
+        "published": "2022-05-18T07:27:15Z"
+      }
+    ]
+  }
+}

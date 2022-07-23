@@ -1,0 +1,56 @@
+{
+  "ok": true,
+  "body": {
+    "listId": "drawful-animated",
+    "entries": [
+      {
+        "contentId": "MDNCXWP",
+        "author": "Jackbox Games",
+        "title": "holidazed \u0026 confused",
+        "description": "It's a wintery holiday-themed episode of Drawful Animate!",
+        "type": "",
+        "published": "2021-12-08T16:05:00Z"
+      },
+      {
+        "contentId": "FCNNFXS",
+        "author": "Jackbox Games",
+        "title": "pax unplugged",
+        "description": "Board games, RPGs, convention centers...yep, this is the custom episode for PAX Unplugged!",
+        "type": "",
+        "published": "2021-12-01T19:40:00Z"
+      },
+      {
+        "contentId": "JMLRYBT",
+        "author": "Jackbox Games",
+        "title": "drawfully wedded",
+        "description": "This wedding-themed episode will make you believe in weddings again.",
+        "type": "",
+        "published": "2021-09-28T11:27:00Z"
+      },
+      {
+        "contentId": "BQMZWMG",
+        "author": "Jackbox Games",
+        "title": "itz 4 kidz!!",
+        "description": "This kid-friendly episode is written FOR kids BY adults.",
+        "type": "",
+        "published": "2021-09-28T10:26:00Z"
+      },
+      {
+        "contentId": "EKGXPCP",
+        "author": "Jackbox Games",
+        "title": "dr-aaaahh!!-ful",
+        "description": "Is this a horror movie? No, it's a horror-themed episode.",
+        "type": "",
+        "published": "2021-09-28T09:25:00Z"
+      },
+      {
+        "contentId": "WJRFQCX",
+        "author": "Jackbox Games",
+        "title": "play harder",
+        "description": "This work-themed episode is perfect for awkward happy hours.",
+        "type": "",
+        "published": "2021-09-28T08:24:00Z"
+      }
+    ]
+  }
+}

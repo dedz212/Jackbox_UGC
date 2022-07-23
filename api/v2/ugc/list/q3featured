@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "body": {
+    "listId": "q3featured",
+    "entries": [
+      {
+        "contentId": "NTJGRCF",
+        "author": "Jackbox Games",
+        "title": "Holidays 2021!!!",
+        "type": "",
+        "published": "2021-12-08T16:04:00Z"
+      },
+      {
+        "contentId": "XGTZMYG",
+        "author": "Jackbox Games",
+        "title": "Ready Quipper One",
+        "type": "",
+        "published": "2021-04-22T15:22:00Z"
+      },
+      {
+        "contentId": "QMYZMLY",
+        "author": "Jackbox Games",
+        "title": "Break That Ice",
+        "type": "",
+        "published": "2020-08-28T18:09:22.000000451Z"
+      },
+      {
+        "contentId": "YMYGTYH",
+        "author": "Jackbox Games",
+        "title": "Happily Ever Laughter",
+        "type": "",
+        "published": "2020-08-26T18:09:22.000000451Z"
+      },
+      {
+        "contentId": "ZZFPEPM",
+        "author": "Jackbox Games",
+        "title": "Kids Only! Stay Out!",
+        "type": "",
+        "published": "2020-08-24T22:35:46.000000906Z"
+      },
+      {
+        "contentId": "QSQEMTF",
+        "author": "Jackbox Games",
+        "title": "Set Course for Sci-Fi",
+        "type": "",
+        "published": "2020-08-24T16:58:13.000000246Z"
+      }
+    ]
+  }
+}
