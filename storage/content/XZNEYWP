@@ -1,0 +1,473 @@
+{
+  "success": true,
+  "contentId": "XZNEYWP",
+  "appId": "4b0d3b57-a0cb-406a-a1fe-a652ce8592d4",
+  "categoryId": "QuiplashPrompt",
+  "userId": "E9899D52-F9A4-FD84-41E8-3873388E9A1A",
+  "metadata": {
+    "author": "JACKBOX",
+    "description": "Diese Scherze sind für Kinder! Erwachsene würden sie sowieso nicht verstehen!",
+    "title": "Nur für Kinder! Erwachsene: Finger weg!"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Du weißt, dass du einen echt seltsamen Schultag vor dir hast, wenn dein Lehrer mit \u0026lt;BLANK\u0026gt; ins Klassenzimmer kommt"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Schleim kann sich ja jeder machen. Echte Draufgänger kochen sich \u0026lt;BLANK\u0026gt; in ihrer Küche"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Der Name eines Skateboard-Tricks, den du nie, nie, NIEMALS versuchen solltest"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Das schlimmste Buch, das du über die Ferien als Hausaufgabe kriegen könntest"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Das beliebteste Fach an einer Schule für Geister"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Der Name eines neuen Dinosauriers, den noch nie jemand gesehen hat"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Die allerbeste Superkraft wäre ..."
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Bienen machen Honig, Kühe machen Milch. Was machst DU?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "In der Zukunft tragen nur die allercoolsten Kids Hosen aus \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was würdest du für den Rest deines Lebens jeden Tag zu jeder Mahlzeit essen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Der nächste Videospiel-Welterfolg wird \u0026lt;BLANK\u0026gt; sein"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Vergiss Hunde und Katzen. Was du dir wirklich als Haustier wünschen solltest, ist \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was kannst du besser als alle Erwachsenen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wenn du ein Zauberer wärst, was würdest du statt „Abrakadabra” sagen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was ist noch peinlicher, als im Unterricht zu pupsen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was würdest du tun, wenn du dich unsichtbar machen könntest?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Erfinde einen coolen Werbeslogan für Mathematik"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Ohne nachzuschauen, was denkst du, steht im ersten Artikel des deutschen Grundgesetztes?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Feuerpokémon sind schwach gegen Wasserpokémon. Welche Pokémon sind schwach gegen dich?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Stell dir vor, Harry Potter schwingt seinen Zauberstab und sagt: „Flukibus Gigantus!” Was passiert dann?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wenn die Creeper von Minecraft sprechen könnten, was würden sie sagen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Sorry, das ist echt ein bisschen peinlich, aber du hast \u0026lt;BLANK\u0026gt; zwischen den Zähnen"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Du bist der neue Besitzer von Milka. Welche verrückte Süßigkeit erfindest du als Erstes?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Erfinde eine olympische Sportart, bei der du auf jeden Fall die Goldmedaille gewinnen würdest"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was ist grün und rennt über den Schulhof? Who’s there?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was würdest du tun, wenn du plötzlich auf Ameisengröße geschrumpft wirst?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wenn du von irgendwas die größte Sammlung der Welt haben könntest, was wäre das?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "„Und mit meinen Zauberkräften lasse ich alle \u0026lt;BLANK\u0026gt; der Welt verschwinden!”"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Die SCHLECHTESTE Entschuldigung, warum du die Hausaufgaben nicht gemacht hast"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Die Sorte Saft, die man nur in teuren Restaurants bekommt"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Etwas, wovon es auf jeden Fall eine Version geben sollte, die im Dunkeln leuchtet"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Viele haben Teddybären, aber nur die wirklich Coolen haben Teddy-\u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Das Erste, was du tust, wenn Außerirdische vor deinem Haus landen"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wenn du erwachsen bist, wirst du nichts anderes mehr tun, als \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Die ekeligste Art, Spaghetti zu beschreiben"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was ist das perfekte Versteck?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was ist das Lieblingsessen von Außerirdischen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wäre es nicht gruselig, wenn eine Katze plötzlich zu dir hochschaut und sagt: „\u0026lt;BLANK\u0026gt;”?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Statt Matheunterricht sollte es \u0026lt;BLANK\u0026gt;-Unterricht geben"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Rosen sind rot, Veilchen sind blau. Das Beste an der Schule ist \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Eine schreckliche Idee für eine neue Limonadensorte"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wenn du ein Buch über dein Leben schreiben würdest, wie würde es heißen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wer, denkst du, wird dieses Spiel gewinnen und warum?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Was macht die Zahnfee eigentlich mit den ganzen Zähnen?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Selbst eine Pizza würde schrecklich schmecken, wenn DAS darauf wäre"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei neue, coole Spitznamen, die du nächstes Jahr mal ausprobieren willst",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei Leute, auf die du einen Furz schieben kannst",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei Dinge, die man statt Schäfchen zählen könnte",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei Schritte in deinem geheimen Handschlag",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei Sachen, die du dir kaufen würdest, wenn du Millionär wärst",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Du hast eine Wunderlampe gefunden! Was sind deine drei Wünsche?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Erzähle eine Gruselgeschichte in drei Sätzen",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Denk dir drei neue Farben für Buntstifte aus",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei Sachen, die Eltern cool finden, aber Kinder gar nicht",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei Zutaten für die besten Sommerferien",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Die drei coolsten Spielzeuge im Jahr 3022",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Drei gute Gründe, warum du jetzt gerade Süßigkeiten kriegen solltest",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Jetzt, wo gerade alle aufpassen, nenne drei Dinge, die du dir zum Geburtstag wünschst",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Reimzeit! Schreib in diesen drei Zeilen, was immer du willst. Aber es muss sich reimen!",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wenn du der Herrscher der Welt wärst, welche drei Gesetze würdest du erlassen?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wir feiern Muttertag und Vatertag. Aber wie sollten wir den Kindertag feiern?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "An alle jungen Wissenschaftler: Erklärt in drei Zeilen, wie das Gehirn funktioniert",
+        "type": "thriplash"
+      }
+    ]
+  },
+  "createdTime": 1651765771825,
+  "downloads": 95,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}

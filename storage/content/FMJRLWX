@@ -1,0 +1,485 @@
+{
+  "success": true,
+  "contentId": "FMJRLWX",
+  "appId": "4b0d3b57-a0cb-406a-a1fe-a652ce8592d4",
+  "categoryId": "QuiplashPrompt",
+  "userId": "E9899D52-F9A4-FD84-41E8-3873388E9A1A",
+  "metadata": {
+    "author": "JACKBOX",
+    "description": "Celebrate your language learning journey with this themed episode in partnership with Duolingo!",
+    "title": "Language Laughter With Duolingo"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Never order coffee in a foreign country by saying \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Before Duolingo chose the Owl, it wisely rejected \u003cBLANK\u003e as its mascot"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most confusing sign in an international airport"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Surprisingly, Duolingo’s latest course will help you learn \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Popstar Shakira can speak FIVE languages, while I can only \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "A funny foreign translation of the movie title [i]Avengers: Age of Ultron[/i]"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Hey [i]Star Trek[/i] fans, what’s the first phrase you’ll learn in Duolingo’s Klingon course?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "As the saying goes, “When in Rome, \u003cBLANK\u003e”"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "You meant to say, “Please pass the salt.” What you actually said was “Please pass \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "A fun way to wish someone Happy Holidays Christmas without saying Happy Holidays"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "In the U.S., if you don’t have money, it’s okay to tip with \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "My country has the world’s worst soccer fans because \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "If Antarctica had its own native language, it would be called \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "A more colorful way of saying “It’s all Greek to me”"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "In most countries, it’s rude to say “Hello” while \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "What to say in an elevator when foreign speakers don’t know you can understand them"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "“Carpe diem” means “seize the day,” but you prefer to say “Carpe \u003cBLANK\u003e”"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "In the future, we’ll give up on languages and communicate through \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "One phrase that CANNOT be translated into French"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "When “Duolingo for Animals” is approved, what’s the first thing birds will tell us?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "What’s the 26th most important phrase to learn when traveling to a foreign country?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Americans call them “Fries,” Brits call them “Chips,” but the best name for them is \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "“Butts!” or as the Canadians call them “\u003cBLANK\u003e!”"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Every UN meeting should begin with \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "You’ve just stubbed your toe! But you’re at the Sistine Chapel! What do you say?!"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "We just translated a secret message found under Stonehenge. It says \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The one insult that is universal to all cultures!"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The best incentive to keep up your Duolingo streak of completing one lesson every day"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Where is the discotheque? Why, it’s \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "What does the Duolingo owl do for fun on a Friday night?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "We get it! You studied abroad! You can stop \u003cBLANK\u003e now!"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Duolingo is not just for learning languages anymore! You can now learn how to \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "What’s the weirdest phrase Duolingo taught you how to translate?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Try Duolingo’s new XTREME mode. It’s where you practice learning languages while \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "In case you find yourself in legal trouble abroad, you should always know how to say \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Momma always told me to pack a couple extra \u003cBLANK\u003e when traveling abroad"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Under “Special Skills,” my resume now includes a new language, but also \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Everyone knows you’re not a local when you wear a shirt that says \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The Duolingo notification that would force you to practice your languages"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most awkward phrase Duolingo made you say in public while practicing a language"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The best thing to say to a conductor if you lose your Eurail Pass"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Duo's Taqueria opened in Pittsburgh. I went for the tacos, but stayed for the \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "There is one true international language: \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Instead of notifications, Duolingo should motivate users with \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Hi Duo! Your notifications have annoyed me. You know what happens now: \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The EU has its own currency, but it should also have its own \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "If you could make up your own language, it would be called \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most American thing about the United States"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "A much better name for [i]Quiplash[/i] in your language"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The first three words you must learn in ANY language",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three things to say when you desperately need help finding a bathroom",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "You’re on a date with someone learning your language. Describe yourself in three words.",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three most common words found on safety signs in the U.S.",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three ways to say “goodbye” in Australia",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three things other countries call Big Ben",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three signs someone is a tourist",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three people you wouldn’t expect to see at your international hostel",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three words that would get you to drop everything and open Duolingo",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three simple rules every host family has for foreign exchange students",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three important landmarks to see when traveling through Asia",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three bad reasons for not trying to learn a new language",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three scary Duolingo notifications reminding you to practice",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three viral trends for the Duolingo owl to create on TikTok",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three unusual European festivals",
+        "type": "thriplash"
+      }
+    ]
+  },
+  "createdTime": 1655503824452,
+  "downloads": 158,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}

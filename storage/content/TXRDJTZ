@@ -1,0 +1,485 @@
+{
+  "success": true,
+  "contentId": "TXRDJTZ",
+  "appId": "4b0d3b57-a0cb-406a-a1fe-a652ce8592d4",
+  "categoryId": "QuiplashPrompt",
+  "userId": "E9899D52-F9A4-FD84-41E8-3873388E9A1A",
+  "metadata": {
+    "author": "JACKBOX",
+    "description": "¡Celebra tu recorrido aprendiendo idiomas con este episodio temático en colaboración con Duolingo!",
+    "title": "Risas en varios idiomas con Duolingo"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Nunca digas \u003cBLANK\u003e para pedir café en un país extranjero"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Antes de que Duolingo eligiera al búho, rechazó a \u003cBLANK\u003e como mascota, e hizo bien"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "La señal más confusa en un aeropuerto internacional"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Sorprendentemente, el último curso de Duolingo te ayudará a aprender \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "La estrella del pop Shakira habla CINCO idiomas, pero yo solo puedo \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Una divertida traducción en otro idioma del título de la película [i]Avengers: Age of Ultron[/i]"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Eh, [i]fans de Star Trek[/i], ¿cuál es la primera frase que aprenderéis en el curso de klingon de Duolingo?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Como dice el dicho: \"Donde fueres, \u003cBLANK\u003e\""
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Querías decir: \"Por favor, pásame la sal\". En realidad, has dicho \"Por favor, pásame \u003cBLANK\u003e\""
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Una forma divertida de desearle a alguien felices fiestas de Navidad sin decir felices fiestas"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "En EE. UU., si no tienes dinero, se puede dar propina con \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Mi país tiene a los peores fans del fútbol porque \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Si la Antártida tuviera su propio idioma, se llamaría \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Una forma más colorida de decir \"Me suena a chino\""
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "En la mayoría de los países, está mal decir \"Hola\" mientras \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Qué decir en un ascensor cuando los hablantes extranjeros no saben que puedes entenderles"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Carpe diem significa \"aprovecha la vida\", pero tú prefieres decir \"Carpe \u003cBLANK\u003e\""
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "En el futuro, dejarán de existir los idiomas y nos comunicaremos mediante \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Una frase que NO PUEDE traducirse al francés"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Cuando \"Duolingo para animales\" se apruebe, ¿qué es lo primero que nos dirán los pájaros?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¿Cuál es la frase más importante número 26 que hay que aprender al viajar a un país extranjero?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Los estadounidenses las llaman \"fries\", los británicos, \"chips\", pero el mejor nombre es \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¡Nalgas! o \"¡\u003cBLANK\u003e!\" según los canadienses"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Todas las reuniones de las Naciones Unidas deberían empezar con \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¡Acabas de darte un golpe en el dedo del pie! ¡Pero estás en la Capilla Sixtina! ¡¿Qué dices?!"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Acabamos de traducir un mensaje secreto que estaba bajo Stonehenge. Dice \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¡El insulto universal en todas las culturas!"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "El mejor incentivo para seguir con tu racha de Duolingo de completar una lección al día"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¿Dónde está la discoteca? ¿Cómo? Está en \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¿Qué hace el búho de Duolingo para divertirse un viernes por la noche?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¡Lo pillamos! ¡Has estudiado en el extranjero! ¡Ya puedes dejar de \u003cBLANK\u003e!"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¡Duolingo ya no solo sirve para aprender idiomas! Ahora puedes aprender cómo \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¿Cuál es la frase más rara que Duolingo te ha enseñado a traducir?"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Prueba el nuevo modo XTREME de Duolingo. Es donde practicas aprendiendo idiomas mientras \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Si tienes problemas jurídicos en el extranjero, siempre deberías saber cómo decir \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Mi madre siempre me decía que llevara un par de \u003cBLANK\u003e de sobra cuando viajara al extranjero"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "En \"habilidades especiales\", he incluido un nuevo idioma, pero también \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Todo el mundo sabe que no eres autóctono cuando llevas una camiseta en la que pone \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "La notificación de Duolingo que te obligaría a practicar tus idiomas"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "La frase más rara que Duolingo te ha hecho decir en público mientras practicas un idioma"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Lo mejor que puedes decir a un conductor si pierdes tu pase Eurail"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Duo tiene una taquería en Pittsburgh. Fui por los tacos, pero me quedé por \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Hay un idioma universal: \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "En lugar de notificaciones, Duolingo debería motivar a los usuarios con \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "¡Hola, Duo! Tus notificaciones me molestan. Ya sabes lo que pasa ahora: \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "La Unión Europea tiene su propia moneda, pero también debería tener su \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Si pudieras inventar tu propio idioma, se llamaría \u003cBLANK\u003e"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "La cosas más estadounidense de los Estados Unidos"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Un nombre mucho mejor para [i]Quiplash[/i] en tu idioma"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Las tres primeras palabras que debes aprender en CUALQUIER idioma",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Las tres primeras cosas que dices cuando necesitas ayuda para encontrar un baño",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Estás en una cita con alguien que está aprendiendo tu idioma. Descríbete en tres palabras.",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Las tres palabras más comunes que puedes encontrar en señales de seguridad en EE. UU.",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres formas de decir \"adiós\" en Australia",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres cosas a las que otros países llaman Big Ben",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres signos de que alguien es un turista",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres personas que no esperarías ver en un hostal internacional",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres palabras que harían que dejaras lo que estés haciendo y abrir Duolingo",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres reglas sencillas que todas las casas de acogida de estudiantes extranjeros tienen",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres lugares importantes que ver cuando viajas por Asia",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres malas razones para no intentar aprender un nuevo idioma",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres notificaciones terroríficas de Duolingo para recordarte que practiques",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres tendencias virales que puede crear el búho de Duolingo en TikTok",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "928968ab-ad8d-4669-afd4-9f2a2b4f6c3f",
+          "name": "JACKBOX"
+        },
+        "prompt": "Tres festivales europeos poco comunes",
+        "type": "thriplash"
+      }
+    ]
+  },
+  "createdTime": 1655503982360,
+  "downloads": 19,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}
