@@ -7,7 +7,9 @@ Go to directory `api/v2/ugc/list/`, at the moment you will see three files: `dra
 ### Putting it on a site
 Then when you've done everything you want to do. You need to put it on your website. You can put it anywhere you want, but it's better to not take long directories. For example, you changed the file `drawful-animated`, and put it in the folder `ugc` and the site where you will put it `example.com`. That is, its directory will be `example.com/ugc/drawful-animated`. The next step will use this example directory.
 ### Putting in the game X
-*X - game title*<br />
-Go to `jackboxgames.X.actionpackages.ui.menu.ugc` in `X`.swf. Next, find line 198 and line 200.<br /><br />Instead of `var domainWithAPIVersion:String = domain + "/api/v2";`<br />replace with `var domainWithAPIVersion:String = "example.com";`.<br /><br />After that in line 200 instead of `restAPI.GET("/ugc/list/" + this._listId,null,function(param1:Object):void`<br />replace with `restAPI.GET("/ugc/" + this._listId,null,function(param1:Object):void`.
+Go to `jackboxgames.X.actionpackages.ui.menu.ugc` in `X.swf`. Next, in **Quiplash 3 [TJPP7]** find line 198 and line 200. (In **Drawful Animate** the first line is 196, the second line is 198; In **Quiplash 3 [TJPS]** the first line is 200, the second line is 202).<br /><br />Instead of `var domainWithAPIVersion:String = domain + "/api/v2";`<br />replace with `var domainWithAPIVersion:String = "example.com";`.<br /><br />After that in second line<br />instead of `restAPI.GET("/ugc/list/" + this._listId,null,function(param1:Object):void`<br />replace with `restAPI.GET("/ugc/" + this._listId,null,function(param1:Object):void`.
 
 ==================================================================<br>You have crossed the finish line. That's it. If you have any problems you can go to the [Discord Server](https://www.discord.gg/FsfSdVKcwq).
+- X - game title
+- TJPP7 - The Jackbox Party Pack 7
+- TJPS - The Jackbox Party Starter
