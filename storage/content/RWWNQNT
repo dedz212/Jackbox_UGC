@@ -1,0 +1,450 @@
+{
+  "success": true,
+  "contentId": "RWWNQNT",
+  "appId": "37c1627d-4b01-4f45-b95f-80197cd4403c",
+  "categoryId": "QuiplashPrompt",
+  "userId": "3D23A337-2D2B-B221-41BA-373A755F7B5F",
+  "metadata": {
+    "author": "JACKBOX",
+    "title": "Movie Night!!!"
+  },
+  "blob": {
+    "content": [
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Animated short \u0026lt;i\u0026gt;My Year of Dicks\u0026lt;/i\u0026gt; is memorable. YOUR unforgettable year would be called \u0026lt;i\u0026gt;My Year of \u0026lt;BLANK\u0026gt;\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Come on, Academy! Isn\u0026#39;t it time you handed out an Oscar\u00AE for Best \u0026lt;BLANK\u0026gt;?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Wow! In \u0026lt;i\u0026gt;Glass Onion: A Knives Out Mystery\u0026lt;/i\u0026gt;, someone calls out this game, \u0026lt;i\u0026gt;Quiplash\u0026lt;/i\u0026gt;, as being \u0026lt;BLANK\u0026gt;!"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Is there no stopping Tom Cruise? The follow-up to \u0026lt;i\u0026gt;Top Gun: Maverick\u0026lt;/i\u0026gt; should be called \u0026lt;i\u0026gt;Top Gun:\u0026lt;/i\u0026gt;\u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Turns out the \u0026lt;i\u0026gt;Everything\u0026lt;/i\u0026gt; in \u0026lt;i\u0026gt;Everything Everywhere All at Once\u0026lt;/i\u0026gt; does NOT include \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The name of the Marvel movie that FINALLY dominates the Oscars\u00AE"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What will Jamie Lee Curtis yell if Michelle Yeoh wins?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Who will Puss in Boots thank in his acceptance speech?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The main difference between \u0026lt;i\u0026gt;Tár\u0026lt;/i\u0026gt; and \u0026lt;i\u0026gt;Avatar\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "So... why wasn\u0026#39;t \u0026lt;i\u0026gt;Morbius\u0026lt;/i\u0026gt; nominated?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "A crime at the 2023 Oscars\u00AE? Benoit Blanc is on the case and discovers \u0026lt;BLANK\u0026gt; is the real criminal"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What awkward part of his childhood did Steven Spielberg omit from \u0026lt;i\u0026gt;The Fablemans\u0026lt;/i\u0026gt;?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "After its big Makeup nomination for \u0026lt;i\u0026gt;The Batman\u0026lt;/i\u0026gt;, DC will release a new eyeliner called \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Hot Gossip: Who is M3GAN seen with at the after party?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "One trick Austin Butler used to get into character as Elvis: \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The title of a powerful animated short no one here has seen: \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Oscar\u00AE-nominated Lady Gaga is sure to make headlines by showing up dressed as \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What would you name the Best Original Song in the movie about your life?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Quick, name someone who sounds like an award-winning cinematographer!"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "When you wish upon a \u0026lt;i\u0026gt;Tár\u0026lt;/i\u0026gt;, this happens"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most efficient way of \u0026lt;i\u0026gt;Turning Red\u0026lt;/i\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "After \u0026lt;i\u0026gt;The Triangle of Sadness\u0026lt;/i\u0026gt; our cruise ship will be stopping at \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Instead of wood, Guillermo del Toro originally tried to make Pinocchio out of \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What DO \u0026lt;i\u0026gt;The Elephant Whisperers\u0026lt;/i\u0026gt; whisper to elephants?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The weirdest line of dialogue cut out of a 2022 movie"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "She\u0026#39;s not nominated, but they might as well give Meryl Streep an Oscar\u00AE for \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "They don\u0026#39;t let you on the red carpet if you\u0026#39;re wearing \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Why WERE there so many Pinocchio films this year?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "After the success of \u0026lt;i\u0026gt;Puss in Boots\u0026lt;/i\u0026gt;, the next animated franchise will feature \u0026lt;BLANK\u0026gt; in \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What\u0026#39;s more ironic than \u0026lt;i\u0026gt;All Quiet on the Western Front\u0026lt;/i\u0026gt; being nominated for Sound?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What is the most \u0026lt;i\u0026gt;special\u0026lt;/i\u0026gt; special effect in any movie of this award season?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What\u0026#39;s a watercooler moment you\u0026#39;d love to see at this year\u0026#39;s Oscars\u00AE?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Instead of the orchestra playing off overly long speeches, this year they\u0026#39;re \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most diva on-set demand of breakout \u0026lt;i\u0026gt;Banshees of Inisherin\u0026lt;/i\u0026gt; star Jenny the Donkey"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The one thing that torpedoes a \u0026quot;For Your Consideration\u0026quot; campaign"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Brendan Gleeson and Brendan Fraser got in a fight over \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "James Cameron\u0026#39;s next movie to break a billion dollars"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The tux is out, bb! 2023\u0026#39;s official men\u0026#39;s formalwear is: \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "It\u0026#39;s all schmoozing! Everyone knows Academy members just vote for the movie whose studio sends them \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The terrible project Oscar\u00AE nominee Ke Huy Quan actually turned down before his career was resurrected"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Elvis\u0026#39; nickname was The King. Austin Butler\u0026#39;s nickname is \u0026lt;BLANK\u0026gt;"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What special Hollywood thing are they serving at the afterparty?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "If the punchline is \u0026lt;i\u0026gt;Everything Everywhere All at Once\u0026lt;/i\u0026gt;, what\u0026#39;s the joke setup?"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three accessories Angela Bassett has considered wearing on the red carpet",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What three points make up your \u0026lt;i\u0026gt;Triangle of Sadness\u0026lt;/i\u0026gt;?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What three new Oscar\u00AE categories would increase viewership?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three most common reasons for an awards ceremony going long",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three body parts Brendan Gleeson cuts off in \u0026lt;i\u0026gt;The Banshees of Inisherin\u0026lt;/i\u0026gt;",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three biggest spoilers you\u0026#39;ll hear watching the Oscars\u00AE this year",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What three things distinguish an Oscar\u00AE party from a Superbowl party?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "What three things were left out of the animated short \u0026lt;i\u0026gt;The Boy, the Mole, the Fox and the Horse\u0026lt;/i\u0026gt;?",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three things you\u0026#39;ll find in this year\u0026#39;s Oscar\u00AE gift bags",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The three qualities you need to be a seat filler at an awards show",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The next three Avatar movies will be called Avatar: \u0026lt;BLANK\u0026gt;, \u0026lt;BLANK\u0026gt;, and \u0026lt;BLANK\u0026gt;",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three snacks you\u0026#39;d make for a themed Oscar\u00AE party",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three subjects that would grab your attention in an Oscar\u00AE-nominated documentary",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "Three things \u0026lt;i\u0026gt;Pinocchio\u0026lt;/i\u0026gt; would want to do after winning an Oscar\u00AE",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "The most awkward trio of celebrities that could present an award together",
+        "type": "thriplash"
+      },
+      {
+        "author": {
+          "id": "1a98125b-530d-4167-8603-eb8b5ca6cf33",
+          "name": "JACKBOX"
+        },
+        "prompt": "It will blow your mind when these three performers are nominated in 2024",
+        "type": "thriplash"
+      }
+    ]
+  },
+  "createdTime": 1675800381049,
+  "downloads": 1914,
+  "creator": {
+    "platformId": "PS4",
+    "platformUserId": "JackboxGames"
+  }
+}
